@@ -129,8 +129,7 @@ Optimize model for mobile/edge deployment
 
 Add license plate recognition module
 
-**##Acknowledgements**
-We thank:
+## Acknowledgements
 
 Dataset contributors (Kaggle)
 
@@ -138,5 +137,6 @@ Mentors and reviewers from Vellore Institute of Technology (VIT)
 
 Open-source community for their tools and frameworks
 
-**##References**
+## References
+
 See references.md for the complete list of research papers and resources used in this project.
